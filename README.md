@@ -2,7 +2,9 @@
 
 ### >_  About me:
 
-I'm a Junior Frontend Developer, 
+I'm a Junior Frontend Developer, ![This is an image](https://drive.google.com/file/d/1U5OimpJvle2L6WH7L96arD6H3ByxPnEo/view?usp=sharing)
+
+
 
 ### >_ Find me at:
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-adrian-majul/)
