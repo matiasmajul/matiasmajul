@@ -4,7 +4,7 @@
 
 I am a student for Frontend development, I am interested in growing as a development professional to become a Fullstack developer.
 
-<a href="https://ibb.co/3Cp2y8B"><img src="https://i.ibb.co/bKsTgyz/Whats-App-Image-2022-04-19-at-4-19-11-PM.jpg" alt="Whats-App-Image-2022-04-19-at-4-19-11-PM" border="0" /></a>
+<a href="https://ibb.co/3Cp2y8B"><img src="https://i.ibb.co/bKsTgyz/Whats-App-Image-2022-04-19-at-4-19-11-PM.jpg" alt="Whats-App-Image-2022-04-19-at-4-19-11-PM" border="0" width="200px" height="200px"/></a>
 
 ### >_ Find me at:
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-adrian-majul/)
