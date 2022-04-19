@@ -19,9 +19,3 @@ I'm a Junior Frontend Developer
 </br>
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
