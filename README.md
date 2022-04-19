@@ -18,3 +18,12 @@ I'm a Junior Frontend Developer
 [![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 </br>
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+
+
+#### ¿Hablamos?☕️
+
+
+<p align="left">
+
+<a href="https://linkedin.com/in/matias-adrian-majul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Matías Adrian Majul" height="30" width="40" />linkedin</a>
+</p>
