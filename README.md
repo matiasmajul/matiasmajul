@@ -20,10 +20,8 @@ I'm a Junior Frontend Developer
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 
 
-#### ¿Hablamos?☕️
+| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+|---|---|---|
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
-<p align="left">
-
-<a href="https://linkedin.com/in/matias-adrian-majul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Matías Adrian Majul" height="30" width="40" />linkedin</a>
-</p>
