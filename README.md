@@ -1,7 +1,7 @@
 # Hi, I´m Matias  👋 :grin:	
 
 ### >_  About me:
-<p display="flex">
+<p style='displa:flex;'>
 <p>I am a student for Frontend development, I am interested in growing as a development professional to become a Fullstack developer.</p>
 
 <a href="https://ibb.co/3Cp2y8B"><img src="https://i.ibb.co/bKsTgyz/Whats-App-Image-2022-04-19-at-4-19-11-PM.jpg" alt="Whats-App-Image-2022-04-19-at-4-19-11-PM" border="0" width="200px" height="200px"/></a>
