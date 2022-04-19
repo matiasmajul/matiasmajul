@@ -2,7 +2,7 @@
 
 ### >_  About me:
 
-I'm a Junior Frontend Developer, ![This is an image](https://drive.google.com/file/d/1U5OimpJvle2L6WH7L96arD6H3ByxPnEo/view?usp=sharing)
+I'm a Junior Frontend Developer, ![This is an image](http://drive.google.com/uc?export=view&id=1U5OimpJvle2L6WH7L96arD6H3ByxPnEo/view?usp=sharing)
 
 
 
