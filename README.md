@@ -2,8 +2,7 @@
 
 ### >_  About me:
 
-I'm a Junior Frontend Developer
-
+I am a student for Frontend development, I am interested in growing as a development professional to become a Fullstack developer.
 
 
 ### >_ Find me at:
