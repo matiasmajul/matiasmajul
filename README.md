@@ -1,7 +1,7 @@
 # Hi, I´m Matias  👋 :grin:	
 
 ### >_  About me:
-<p width="200px">I´m a student for Frontend development, I´m interested in growing as a development professional to become a Fullstack developer.</p>
+<p width="200px">I´m a Frontend development, I´m interested in growing as a professional to become a Fullstack developer.</p>
 
 <a href="https://ibb.co/3Cp2y8B"><img src="https://i.ibb.co/bKsTgyz/Whats-App-Image-2022-04-19-at-4-19-11-PM.jpg" alt="Whats-App-Image-2022-04-19-at-4-19-11-PM" border="0" width="200px" height="200px"/></a>
 
@@ -17,4 +17,4 @@
 [![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 </br>
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
-
+[!Typescript]
